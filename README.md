@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/seu_perfil](https://www.linkedin.com/in/pedromorinel))
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorinel&layout=compact)
 
 <!--
