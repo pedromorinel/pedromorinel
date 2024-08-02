@@ -1,18 +1,18 @@
-### Hi there 👋
+<h1>Hi There! 👋</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorinel&layout=compact)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/pedromorinel/))]
+[![Gmail Badge](https://img.shields.io/badge/-pedrocamorinel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocamorinel@gmail.com)](mailto:pedrocamorinel@gmail.com)
 
-<!--
-**pedromorinel/pedromorinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Code Boy image" src="./codeBoy.png"  width="300px"/>
 
-Here are some ideas to get you started:
+## My name is Pedro Morinel
+(Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Software Developer
+- 🎓 Graduated in Systems Analysis and Development @[Unilasalle](www.unilasalle.edu.br/)
+- 💡 Love a good challenge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+[![Pedroca top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorinel&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
