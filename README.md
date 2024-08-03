@@ -9,7 +9,6 @@
 (Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 - 🧑🏻‍💻 Software Developer
 - 🎓 Graduated in Systems Analysis and Development @[Unilasalle](www.unilasalle.edu.br/)
-- 💡 Love a good challenge
 
 <div align="left">
   
