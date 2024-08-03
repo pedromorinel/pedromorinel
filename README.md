@@ -14,5 +14,5 @@
 <div align="left">
   
 [![Pedroca top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorinel&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  <img align="right" alt="Code Boy image" src="./codeBoy.jpg"  width="300px"/>
+  <img align="right" alt="Code Boy image" src="./boy.png"  width="300px"/>
  </div>
