@@ -1,6 +1,6 @@
 <h1>Hi There! 👋</h1>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/pedromorinel/))
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromorinel/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrocamorinel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocamorinel@gmail.com)](mailto:pedrocamorinel@gmail.com)
 
 
