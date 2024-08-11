@@ -1,6 +1,6 @@
 <table>
   <tr>
-       <img src="./shikamaru.jpeg" alt="Zenitsu" style="width: 200%; border: none;"/>
+       <img src="./shikamaru.jpeg" alt="Zenitsu" style="width: 200%; display: flex; border: none;"/>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
