@@ -12,12 +12,12 @@
         ┃┏━━┫┃━┫┏┓┃┏┫┏┓┃┃┃┃┃┃┃┏┓┃┏╋┫┏┓┫┃━┫┃<br>
         ┃┃╋╋┃┃━┫┗┛┃┃┃┗┛┃┃┃┃┃┃┃┗┛┃┃┃┃┃┃┃┃━┫┗┓<br>
         ┗┛╋╋┗━━┻━━┻┛┗━━┛┗┛┗┛┗┻━━┻┛┗┻┛┗┻━━┻━┛<br><br>
+        
         /About_Me
         │
         ├── bio.txt
         │   ├── he/him - brazilian - (pt/br + english)
         │   ├── software developer
-        │   │   └── at <a href="https://crearesistemas.com.br/">crearesistemas.com.br</a>
         │   ├── graduated in systems analysis and development
         
         ├── skills
@@ -25,9 +25,11 @@
         │   ├── javascript.typescript
         │   ├── angular
         │   ├── react.js
+        │   ├── sql
         
         └── learning
             ├── english
+            ├── next.js
       </p>
     </td>
   </tr>
