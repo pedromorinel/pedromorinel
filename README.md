@@ -12,22 +12,22 @@
         ┃┃╋╋┃┃━┫┗┛┃┃┃┗┛┃┃┃┃┃┃┃┗┛┃┃┃┃┃┃┃┃━┫┗┓<br>
         ┗┛╋╋┗━━┻━━┻┛┗━━┛┗┛┗┛┗┻━━┻┛┗┻┛┗┻━━┻━┛<br><br>
         
-        /About_Me<br>
-        │<br>
-        ├── bio.txt<br>
-        │   ├── he/him - brazilian - (pt/br + english)<br>
-        │   ├── software developer<br>
-        │   │   └── at <a href="https://crearesistemas.com.br/">crearesistemas.com.br</a><br>
-        │   ├── graduated in systems analysis and development<br><br>
+        /About_Me
+        │
+        ├── bio.txt
+        │   ├── he/him - brazilian - (pt/br + english)
+        │   ├── software developer
+        │   │   └── at <a href="https://crearesistemas.com.br/">crearesistemas.com.br</a>
+        │   ├── graduated in systems analysis and development
         
-        ├── skills<br>
-        │   ├── java.springboot<br>
-        │   ├── javascript.typescript<br>
-        │   ├── angular<br>
-        │   ├── react.js<br><br>
+        ├── skills
+        │   ├── java.springboot
+        │   ├── javascript.typescript
+        │   ├── angular
+        │   ├── react.js
         
-        └── learning<br>
-            ├── english<br>
+        └── learning
+            ├── english
       </p>
     </td>
   </tr>
